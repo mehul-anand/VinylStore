@@ -1,4 +1,4 @@
-# [The Vinyl Store](link)
+# [The Vinyl Store](https://the-vinyl-store.netlify.app/)
 
 Vinyl Store is a one stop store for all the music enthusaists to get vinyls of their favourite albums
 
